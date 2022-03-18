@@ -1,0 +1,51 @@
+@font-face {
+    font-family: I Fink U Freeky;
+    font-style: normal;
+    font-weight: 500;
+    src: url(https://jamwithhumans.com/bundles/15a55d2dd6dd8b53b4f0a56fb6bfa122.eot) format("eot"), url(https://jamwithhumans.com/ea5e1a97166b37fc11d626affe5bb1f9.woff2) format("woff2"), url(https://jamwithhumans.com/0f56ee318dcf9b90ebd36f8c19b265ab.woff) format("woff"), url(https://jamwithhumans.com/4dd8eff4500c1aa752861c9ca7d3785e.svg) format("svg"), url(https://jamwithhumans.com/7b6bee1989e51264f95b512579cd9708.ttf) format("truetype")
+}
+
+
+html {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: -apple-system, Arial, sans-serif;
+}
+
+main {
+    margin: 20px auto;
+    width: 90%;
+    max-width: 500px;
+}
+
+h1 {
+    font-family: "I Fink U Freeky", "Times New Roman", sans-serif;
+    color: #006680;
+    font-size: 40pt;
+}
+
+h2 {
+    font-family: "I Fink U Freeky", "Times New Roman", sans-serif;
+    color: #D45500;
+    font-size: 20pt;
+}
+
+a {
+    padding: 10px 20px;
+    border: 1px solid white;
+    display: block;
+    margin: 20px 0;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:visited {
+    color: white;
+}
+
+footer {
+    color: #FFCCAA;
+    font-size: 10pt;
+}
